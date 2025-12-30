@@ -22,11 +22,14 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["index", "quickstart", "development"]
+            "pages": ["index", "quickstart"]
           },
           {
-            "group": "Customization",
-            "pages": ["essentials/settings", "essentials/navigation"]
+            "group": "Functionality",
+            "pages": [
+              "functionality/built-in-commands",
+              "functionality/custom-commands"
+            ]
           }
         ]
       }
