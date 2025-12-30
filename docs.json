@@ -27,6 +27,7 @@
           {
             "group": "Functionality",
             "pages": [
+              "functionality/overview",
               "functionality/built-in-commands",
               "functionality/custom-commands"
             ]
